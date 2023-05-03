@@ -10,3 +10,4 @@ My tutor, Jihan's Repo
 | 23.04.11 | 19:30 ~ 20:40 |         Python: functions - default parameters + Minecraft: setBlock function         |
 | 23.04.15 | 21:00 ~ 22:08 | Python: Review of Functions (+ Default parameters) + Playbot (User-defined Functions) |
 | 23.04.30 | 10:00 ~ 11:00 |                       Python: Solving 10 Problems on the Jungol                       |
+| 23.05.03 | 10:08 ~ 10:43 |               Python: Solving 7 Problems(print + variable) on the Jungol              |
